@@ -1,0 +1,4 @@
+git clone https://github.com/SashukKeshuk/homeWork1
+ls
+cd homeWork1
+ls
