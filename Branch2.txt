@@ -1,0 +1,10 @@
+git add .
+git log
+git checkout commit1
+git checkout -b test1
+git commit -m "commit2"
+git add .
+git commit -m "commit3"
+git add .
+git commit -m "commit4"
+git add .
